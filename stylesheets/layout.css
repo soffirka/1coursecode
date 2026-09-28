@@ -59,6 +59,15 @@ h5 {
   font-size: 22px;
   line-height: 24px;
 }
+img,
+hr {
+  width: 1024px;
+  margin: 30px auto;
+  display: block;
+}
+hr {
+  border-bottom: none;
+}
 img hr {
   width: 1024px;
   margin: 30px auto;
